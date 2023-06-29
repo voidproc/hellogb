@@ -2,7 +2,7 @@
 
 ![ss](img/screenshot.png)
 
-Hello world ROM image build with RGBDS.
+Hello world ROM image for GAME BOY, built with [RGBDS](https://rgbds.gbdev.io).
 
 ## Download
 
