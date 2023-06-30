@@ -110,6 +110,7 @@ EntryPoint:
     ldh [rLCDC], a
 
 .loop
+    halt
     jr .loop
 
 

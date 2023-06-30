@@ -5,7 +5,7 @@ INC_DIR := inc
 BUILD_DIR := build
 
 ASM := rgbasm
-ASM_FLAGS := -i $(INC_DIR)/
+ASM_FLAGS := -H -i $(INC_DIR)/
 
 LINK := rgblink
 LINK_FLAGS := --sym $(BUILD_DIR)/$(ROM_NAME).sym
